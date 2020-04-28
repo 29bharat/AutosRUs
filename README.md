@@ -32,4 +32,4 @@ Two additional data points if added in the MechaCar dataset that we can use to h
   
 From our correlation analysis in this study, we have determined that the r-value between mpg and horsepower is -0.77, which is a strong negative correlation. Similarly, r-value between mpg and cyl is -0.85 which is again a strong negative correlation. Hence the analysis would be more efficient if we have these two data points added to the MechaCar dataset.
   
-We can perform linear multi regression test to calculate the intercept and slope for each independent variable that we add. That way the R squared and p value will give an idea of correlation between the independent and mpg values.
+We can perform linear multi regression test to calculate the intercept and slope for each independent variable that we add. That way the R squared and p value will give an idea of correlation between the independent and mpg values. Once we have these data points(hp and cyl) gathered we can also run a comparative analysis against mtcars dataset using one variable t test or anova test.
